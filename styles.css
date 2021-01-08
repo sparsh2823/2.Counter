@@ -1,0 +1,22 @@
+.container-center{
+    
+    text-align: center;
+    margin: auto;
+
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.btn{
+    /* color:white; */
+    color:black;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border-color: black;
+    margin-right: 0.5rem;
+}
+
+
+   
